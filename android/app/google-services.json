@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75678850833",
+    "project_id": "pro-recovery",
+    "storage_bucket": "pro-recovery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75678850833:android:cc7dbe9b2ce3e6c7e936b0",
+        "android_client_info": {
+          "package_name": "com.projectHSE.pro_recovery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75678850833-kh3ghvqk80qfspolfvqvfqmo5rkq8krd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY0-70qETZz7ytksMiUXeuZELD85wUpxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75678850833-kh3ghvqk80qfspolfvqvfqmo5rkq8krd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
